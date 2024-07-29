@@ -1,0 +1,22 @@
+.about-me {
+  border-radius: 350px;
+  box-shadow: 2px 2px 5px 8px rgba(0, 0, 0, 0.2);
+}
+.gmail-logo{
+    width: 15%;
+    height: auto;
+  
+}
+.profile-1{
+  box-shadow: 3px 2px 19px 5px rgba(0, 0, 0, 0.4);
+  border-radius: 30px;
+}
+.set-bor{
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+}
+.set-bor-2{
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+
